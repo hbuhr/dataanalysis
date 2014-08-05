@@ -1,4 +1,5 @@
 # Calculate prime numbers
+# Author: hbuhr
 
 from datetime import datetime
 start =  datetime.now()
